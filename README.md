@@ -1,3 +1,8 @@
+# SmartMoE
+
+[ATC'23] SmartMoE: Efficiently Training Sparsely-Activated Models through Combining Offline and Online Parallelization
+
+# Below is FastMoE's original README:
 <img height='60px' src='doc/logo/rect.png'/>
 
 [Release note](doc/release-note.md)
